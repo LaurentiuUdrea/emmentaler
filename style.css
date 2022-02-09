@@ -5,3 +5,17 @@
 	padding: 20px;
 	background: #E6E6FA;
 }
+
+.exterior {
+	border-style: solid;
+}
+
+.coloane-1 {
+	border-style: solid;
+	width: 40px;
+}
+
+.coloane-2 {
+	border-style: solid;
+	width: 40px;
+}
